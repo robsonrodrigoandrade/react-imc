@@ -13,9 +13,9 @@ export default function App() {
     if (resultado < 18.5) classificacao = 'Abaixo do peso';
     else if (resultado < 25) classificacao = 'Peso normal';
     else if (resultado < 30) classificacao = 'Sobrepeso';
-    else if (resultado < 35) classificacao = 'Obsidade grau I';
-    else if (resultado < 40) classificacao = 'Obsidade grau II';
-    else classificacao = 'Obsidade grau III';
+    else if (resultado < 35) classificacao = 'Obesidade grau I';
+    else if (resultado < 40) classificacao = 'Obesidade grau II';
+    else classificacao = 'Obesidade grau III';
 
     setMessage(`SEU IMC: ${resultado} ${classificacao}`);
   }
