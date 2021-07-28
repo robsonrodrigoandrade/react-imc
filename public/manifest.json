@@ -1,6 +1,6 @@
 {
-  "short_name": "Projeto Base",
-  "name": "Projeto Base - Módulo \"React I\"",
+  "short_name": "react-imc",
+  "name": "react-imc - Módulo \"React I\"",
   "icons": [
     {
       "src": "favicon.ico",
