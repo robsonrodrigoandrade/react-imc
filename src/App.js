@@ -19,7 +19,7 @@ export default function App() {
 
     setMessage(`SEU IMC: ${resultado} ${classificacao}`);
   }
-  //teste
+
   return (
     <div>
       <header>
